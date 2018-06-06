@@ -1,0 +1,10 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\bin\Debug\EmailSaveDz.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\bin\Debug\EmailSaveDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\bin\Debug\EmailSaveDz.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\bin\Debug\Mail.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\bin\Debug\Newtonsoft.Json.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\bin\Debug\Mail.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\bin\Debug\Newtonsoft.Json.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\obj\Debug\EmailSaveDz.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\obj\Debug\EmailSaveDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\EmailSaveDz\EmailSaveDz\obj\Debug\EmailSaveDz.pdb
